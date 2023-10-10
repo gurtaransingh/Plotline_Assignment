@@ -54,11 +54,3 @@ This project will be evaluated based on the following criteria:
 2. **Project Structure:** Organized code structure and clear separation of concerns.
 3. **Code Quality:** Clarity, Readability, Best practices, Efficiency, etc.
 4. **Code Maintenance:** Effective use of Version Control System (commits, branching, etc.).
-
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
