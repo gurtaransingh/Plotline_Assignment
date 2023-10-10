@@ -43,8 +43,8 @@ In today's fast-paced business world, managing invoices is a critical task. To a
 
 Please find the following submission details:
 
-- ([link-to-your-deployed-app](https://pl-assign-frontend.vercel.app/))
-- ([link-to-your-github-repo](https://github.com/gurtaransingh/Plotline_Assignment))
+- ([link-to-my-deployed-app](https://pl-assign-frontend.vercel.app/))
+- ([link-to-my-github-repo](https://github.com/gurtaransingh/Plotline_Assignment))
 
 ## Evaluation Criteria
 
