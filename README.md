@@ -25,32 +25,17 @@ In today's fast-paced business world, managing invoices is a critical task. To a
   - Tax SC: A flat tax of 100 for all services.
 - Tax is applied individually to each item, ensuring accuracy.
 
-## Must-Have Functionalities
+## Functionalities
 
 - **Product and Service Listings:** Users can view all product and service information, including prices.
 - **Cart Management:** Users can add/remove products or services from their carts.
 - **Cart Clearing:** Users have the option to clear the entire cart.
 - **Billing Information:** Users can view their total bill, including item prices, quantities, and individual taxes, as well as the total value of selected items.
 - **Order Placement:** Users can place orders with ease.
-
-## Good to Have
-
 - **User Accounts:** A user account creation feature would enhance user experience.
 - **Order History:** Users can view all orders they have placed.
-- **Backend Testing:** Implementing backend test cases to simulate practical scenarios will ensure system reliability.
 
-## Submission
+## Documentation
 
-Please find the following submission details:
-
-- ([link-to-my-deployed-app](https://pl-assign-frontend.vercel.app/))
-- ([link-to-my-github-repo](https://github.com/gurtaransingh/Plotline_Assignment))
-
-## Evaluation Criteria
-
-This project will be evaluated based on the following criteria:
-
-1. **Functionality and Robustness:** Ensuring all required features work seamlessly.
-2. **Project Structure:** Organized code structure and clear separation of concerns.
-3. **Code Quality:** Clarity, Readability, Best practices, Efficiency, etc.
-4. **Code Maintenance:** Effective use of Version Control System (commits, branching, etc.).
+- [Frontend](https://github.com/gurtaransingh/Plotline_Assignment/blob/main/frontend/README.md)
+- [Backend](https://github.com/gurtaransingh/Plotline_Assignment/blob/main/backend/Readme.md)
