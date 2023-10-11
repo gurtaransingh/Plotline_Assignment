@@ -24,7 +24,7 @@ Here are some screenshots of the InvoiceMaster frontend:
 
 To set up the frontend of InvoiceMaster, follow these steps:
 
-1. **Installation**: Run the following commands to install the required dependencies and start the development server:
+**Installation**: Run the following commands to install the required dependencies and start the development server:
 
    ```bash
    # Navigate to the frontend directory
