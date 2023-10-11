@@ -112,7 +112,7 @@ const clearCart = async (req, res) => {
     cart.totalAmount = 0;
     await cart.save();
 
-    res.json({ message: "Cart cleared successfully", cart });
+    res.json({ success: true, message: "Cart cleared successfully", cart });
   } catch (error) {
     console.log(error);
     res.json({ success: false, message: "Internal server error" });
