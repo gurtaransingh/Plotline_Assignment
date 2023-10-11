@@ -19,13 +19,14 @@ The backend of InvoiceMaster is built using the following technologies:
 
 To set up the backend of InvoiceMaster, follow these steps:
 
-1. **Prerequisites**: Ensure you have Node.js and MongoDB installed on your system.
-
-2. **Installation**: Run the following commands to install the required dependencies:
+**Installation**: Run the following commands to install the required dependencies:
 
    ```bash
    # Navigate to the backend directory
    cd backend
 
    # Install dependencies
-   npm install
+   yarn install
+
+  # Run the project
+   yarn dev
